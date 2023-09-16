@@ -1,0 +1,93 @@
+body {
+    margin: 40px;
+    background-color: #30343F;
+    font-family: Outfit;
+    color: white;
+}
+/*Navbar Section*/
+.navbar-brand{
+    font-weight: 900;
+}
+.navbar-nav{
+    text-align: center;
+}
+.log{
+    width:100%;
+    border-radius: 50px;
+    background: linear-gradient(90deg, #FDDC2D 0%, #FB3AB9 100%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.collapse{
+    background-color: #30343F;
+}
+
+.btn{
+    color: white;
+    background-color: #F20089;
+}
+#Progbar{
+    padding: 5%;
+}
+#form{
+    padding: 5%;
+}
+.title{
+    color: #F20089;
+}
+.progress{
+    border-radius: 10px;
+}
+.pgb{
+    background-color: #F20089;
+}
+#findtutorials{
+    padding:3%;
+    height: auto;
+    width: auto;
+    background: #595758;
+}
+mark{
+    background-color: #F20089;
+    border-radius: 5px;
+}
+.pic1{
+    height: 50px;
+    width: 50px;
+}
+
+.btn-id:link, a:visited {
+    background-color: #F20089;
+    color: #595758;
+    border: 2px solid white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+  
+.btn-id:hover, a:active {
+    background-color: white;
+    color: #F20089;
+}
+
+.link:link, a:visited {
+    background-color: #F20089;
+    color: #595758;
+    border: 2px solid white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.link:hover, a:active {
+  background-color: white;
+  color: #F20089;
+}
+
+.box{
+    width: 80%;
+    height: 40%;
+    background-color: #FFE4F3;
+    padding: 50px;
+    border-radius: 50px;
+    color:black;
+}
