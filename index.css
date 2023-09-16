@@ -82,7 +82,7 @@ margin-top: 20px;
 .btn.btn-outline-primary {
 color: black; 
 }
-.row{
+.info .row{
 margin-top: 30px;
 padding:20px;
 }
@@ -95,6 +95,9 @@ margin-bottom: 15px;
 }
 .haveAcc{
 cursor: pointer;
+}
+.btn-group{
+    margin-bottom: 10px;
 }
 
 /*Intro Home*/
@@ -202,7 +205,10 @@ cursor: pointer;
 }
 
 @media (min-width: 1200px) {
-
+    .cMUSTery{
+        margin-top: 10%;
+        font-size: 22px;
+    }
 }
 
 @media (min-width: 1400px) {
@@ -215,7 +221,7 @@ cursor: pointer;
         line-height: 28px;
     }
     .cMUSTery{
-        margin-top: 20px;
+        margin-top: 12%;
         font-size: 25px;
     }
     .joinBtn{
